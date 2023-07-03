@@ -99,7 +99,4 @@ volumes:
   redis:
     external: false
 
-networks:
-  default:
-    external:
-      name: full-postgres_af-network
+
